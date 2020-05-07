@@ -3,7 +3,7 @@
 ***
 Here you can download the newest version of FLatt Pack.
 
-* Current version: 3.0
+* Current version: 3.05
 * Last update: 7/4/2020
 
 A few notes on installation and use:
