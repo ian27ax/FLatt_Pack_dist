@@ -3,9 +3,9 @@
 ***
 Here you can download the newest version of FLatt Pack.
 
-* Current version: 3.06
-* Last update: 26/5/2020
-* License expiry date: 31/8/2020
+* Current version: 3.07
+* Last update: 8th July 2020
+* License expiry date: 30th September 2020
 
 A few notes on installation and use:
 1. The first time the software is installed on a PC, it will connect to the internet to download the Matlab Runtime environment.  This can take around 20 minutes, depending on your connection speed.  Subsequent installations (such as updated versions of the software) will bypass this step and will be almost instantaneous.  If this is a problem I can send another version which has the Runtime bundled.
