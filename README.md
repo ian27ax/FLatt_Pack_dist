@@ -3,8 +3,8 @@
 ***
 Here you can download the newest version of FLatt Pack.
 
-* Current version: 3.07
-* Last update: 8th July 2020
+* Current version: 3.08
+* Last update: 16th July 2020
 * License expiry date: 30th September 2020
 
 A few notes on installation and use:
