@@ -5,7 +5,7 @@ Here you can download the newest version of FLatt Pack.
 
 * Current version: 3.10
 * Last update: 4th August 2020
-* License expiry date: 30th November 2020
+* License expiry date: 30th December 2020
 
 A few notes on installation and use:
 1. **To ensure the program runs without error, it is best to install it in your user space (your *Documents* folder or similar) rather than *C:\Program Files*.**  If you have admin rights on the PC, you should be able to install it anywhere without problem.
