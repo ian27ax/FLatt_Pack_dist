@@ -3,9 +3,9 @@
 ***
 Here you can download the newest version of FLatt Pack.
 
-* **Current version:** 3.28
-* **Last update:** 29th November 2022
-* **License expiry date:** 28th March 2023
+* **Current version:** 3.29
+* **Last update:** 15th March 2023
+* **License expiry date:** 28th September 2023
 
 **Please read.**
 A few notes on installation and use:
