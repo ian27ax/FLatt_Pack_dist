@@ -1,7 +1,10 @@
 # FLatt Pack (the Functional Lattice Package)
 ### Welcome to the public Git for the FLatt Pack installer.
-Here you can download the newest version of FLatt Pack.
-It is maintained by Ian Maskery of the University of Nottingham
+You can download the newest version of FLatt Pack under the **'Releases'** section of this page.
+
+It is maintained by [Ian Maskery](https://www.ianmaskery.com/) of the University of Nottingham.
+
+If you are interested, you can find the associated journal article about this program [here](https://www.sciencedirect.com/science/article/pii/S2214860421006576)  
 ***
 * **Current version:** 3.33
 * **Last update:** 6th December 2023
