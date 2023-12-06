@@ -2,9 +2,7 @@
 ### Welcome to the public Git for the FLatt Pack installer.
 You can download the newest version of FLatt Pack under the **'Releases'** section of this page.
 
-It is maintained by [Ian Maskery](https://www.ianmaskery.com/) of the University of Nottingham.
-
-If you are interested, you can find the associated journal article about this program [here](https://www.sciencedirect.com/science/article/pii/S2214860421006576)  
+It is maintained by [Ian Maskery](https://www.ianmaskery.com/) of the University of Nottingham.  If interested, you can find the associated *Additive Manufacturing* journal article about this program [here](https://www.sciencedirect.com/science/article/pii/S2214860421006576).  
 ***
 * **Current version:** 3.33
 * **Last update:** 6th December 2023
