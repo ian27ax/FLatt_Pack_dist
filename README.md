@@ -7,7 +7,7 @@ It is maintained by Ian Maskery of the University of Nottingham
 * **Last update:** 6th December 2023
 * **License expiry date:** 30th July 2024
 
-**Please read.** these notes on installation and use:
+**Please read** these notes on installation and use:
 
 1. **To ensure the program runs without error, install FLatt Pack in your user space (your *Documents* folder or similar) rather than *C:\Program Files*.**  If you have admin rights on the PC, you should be able to install it anywhere without problem.
 
