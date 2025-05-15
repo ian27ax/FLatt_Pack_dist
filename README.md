@@ -4,9 +4,9 @@ You can download the newest version of FLatt Pack under the **'Releases'** secti
 
 It is maintained by [Ian Maskery](https://www.ianmaskery.com/) of the University of Nottingham.  If interested, you can find the associated *Additive Manufacturing* journal article about this program [here](https://www.sciencedirect.com/science/article/pii/S2214860421006576).  
 ***
-* **Current version:** 3.61
-* **Last update:** 10th April 2025
-* **License expiry date:** 30th September 2025
+* **Current version:** 4.0
+* **Last update:** 15th May 2025
+* **License expiry date:** 30th July 2026
 
 **Please read** these notes on installation and use:
 
